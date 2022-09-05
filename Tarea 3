@@ -1,0 +1,13 @@
+Class= this.persona
+
+This.persona= edad
+This.peraona= nombre
+This.persona= teléfono
+
+This.get edad
+This.get nombre
+This.get teléfono 
+
+This.set edad
+This.set nombre
+This.ser teléfono 
